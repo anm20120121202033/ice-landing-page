@@ -1,0 +1,125 @@
+.lazzabg{
+	background:#603f5c;
+	padding:15px;			
+}
+.lazzalogo{
+	padding-left:70px;
+}
+.location{
+	margin-left:205px;
+	margin-top:-65px;
+}
+.text{
+	color:white;
+}
+li{
+	display:inline;
+		
+}
+.navbar{
+	margin-left:800px;
+	margin-top:-40px;
+}
+.a1
+{
+	color:white;
+}
+.a1:Active
+{
+color:white;}
+
+.navbar a:hover{
+				color:#14cdde;
+				text-decoration:none;
+				}
+
+.fot{
+							  position: relative;
+							 }	
+                    .fot::after {
+							  content: "";
+							  position: absolute;
+							  left: 0;
+							  bottom: -5px;
+							  width: 100%;
+							  height: 1px;
+							  background-color: #fc0ac8;
+							  transform: scaleX(0);
+							  transform-origin:bottom right;
+							  transition:transform 0.3s ease-out;
+							}
+					.fot:hover::after {
+							  transform: scaleX(1);
+							  transform-origin:bottom left;
+							}
+							
+.he{
+	background:#e5acf2;
+	padding:20px;
+	margin-top:-24px;
+}
+.fnt{
+	font-style:arial;
+	font-weight:bold;
+}
+.fnt1{
+	font-family:papyrus;
+	font-weight:bold;
+	color:#0563fa;
+	font-size:20px;
+}
+.fnt2{
+	font-style:arial;
+	font-weight:bold;
+}
+.fnt3{
+	font-family:papyrus;
+	font-weight:bold;
+	color:#0563fa;
+	font-size:20px;
+}
+.fnt4{
+	margin-left:460px;
+	margin-top:-480px;
+}
+.mrq{
+	color:yellow;
+	background:#402c37;
+	padding:15px;
+}
+.fotr{
+	background:black;
+	padding:80px;
+}
+.ft{
+	color:yellow;
+	margin-left:200px;
+	margin-top:-150px;
+}
+.a2
+{
+	color:yellow;
+}
+.a2:Active
+{
+color:yellow;}
+
+.ft2{
+	color:yellow;
+	margin-left:380px;
+	margin-top:-125px;
+}
+.ft3{
+	color:yellow;
+	margin-left:580px;
+	margin-top:-125px;
+}
+.ft4{
+	color:yellow;
+	margin-left:780px;
+	margin-top:-165px;
+}
+.f1{
+	margin-left:970px;
+	margin-top:-100px;
+}
